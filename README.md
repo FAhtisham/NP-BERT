@@ -1,10 +1,6 @@
 # NP-BERT
-NP-BERT is a method for identifying nucleosome positioning across 12 datasets. NP-BERT utilizes state of the art BERT models to learn features from the DNA sequences for nucleomse positioning predictions.
+> NP-BERT is a method for identifying nucleosome positioning across 12 datasets. NP-BERT utilizes state of the art BERT models to learn features from the DNA sequences for nucleomse positioning predictions.
 
-
-# Project Name
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
