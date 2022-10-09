@@ -4,10 +4,10 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
+* [Tools Used](#technologies-used)
+* [Datasets](#features)
 * [Setup](#setup)
+* [Results](#screenshots)
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
