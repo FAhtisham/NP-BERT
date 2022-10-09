@@ -25,9 +25,9 @@
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- Python 3.6
+- SLRUM if the automation of the training process is required.
+- PSI-CD-HIT (if dataset similarity check is of interest)
 
 
 ## Features
